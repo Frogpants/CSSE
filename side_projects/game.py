@@ -179,22 +179,16 @@ def plane(x,y,z,xs,ys,zs):
 
 def cube(x,y,z,xs,ys,zs):
     #Front and back
-    if (zcam > z+zs):
-        plane(x,y,z+zs,xs,ys,1)
-    if (zcam < z-zs):
-        plane(x,y,z-zs,xs,ys,1)
+    plane(x,y,z+zs,xs,ys,1)
+    plane(x,y,z-zs,xs,ys,1)
 
     #Sides
-    if (xcam > x+xs):
-        plane(x+xs,y,z,1,ys,zs)
-    if (xcam < x-xs):
-        plane(x-xs,y,z,1,ys,zs)
+    plane(x+xs,y,z,1,ys,zs)
+    plane(x-xs,y,z,1,ys,zs)
 
     #Top and Bottom
-    if (ycam > y+ys):
-        plane(x,y+ys,z,xs,1,zs)
-    if (ycam < y-ys):
-        plane(x,y-ys,z,xs,1,zs)
+    plane(x,y+ys,z,xs,1,zs)
+    plane(x,y-ys,z,xs,1,zs)
 
 def render():
     cube(0,0,0,50,50,50)

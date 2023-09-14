@@ -11,15 +11,13 @@ This is a digital recording of my work and a few extra side projects.
 ## Overview of Hacks, Study and Tangibles - # Read
 Throughout working on this blog, I've had many ups and downs throughout my start of my journey in this amazing coding class. I've used the resources, such as below, they were quite useful when I was having issues. For example, I was struggling with adding images and other groups of code to my blog, but not only these websites but also my peers and teachers helped me learn and grow as a person.
 
-- [Scrum Boards](https://www.youtube.com/watch?v=yBm4K00SMEk)
-- [Hacks(Todo)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Tangible Artifacts](https://www.youtube.com/watch?v=yBm4K00SMEk)
-
-Above are very useful resources that I also utilized when creating my blog. I was having trouble with the problems I previously discussed and each resource offered a step in the right direction, or fixing the problems/errors.
+I was given very useful resources that I also utilized when creating my blog. I was having trouble with the problems I previously discussed and each resource offered a step in the right direction, or fixing the problems/errors.
 
 An example of a problem was adding a picture on my home page. The image below was the one my teacher had told us to make for our blogs.
 
-![Alt text](<images/canvas (1).png>)
+<center>
+<img src="images/canvas (1).png" alt= "idea" width="350" height="400">
+</center>
 
 The issue with adding this image was I didn't know how. Eventually after help with friends and my teacher (Mr. Mortensen) I was able to add in an image.
 
@@ -45,6 +43,7 @@ A few things about me:
 - I want to go to MIT
 
 I've always been intrested in science, but I never knew what. But one day at a summer camp, they introduced programming and at first I thought it was dumb and too easy (and this was as a 1st grader). But I eventually realized that all that was only true because they werent teaching on how to create your ideas, in a way, they weren't even really teaching, they were just telling. That day I went home and dug into my code and I finished my first ever project. It wasn't much but it was a working thing? I continued on to where I am today.
+
 <center>
 <img src="images/lightbulb.png" alt= "idea" width="350" height="350">
 </center>
